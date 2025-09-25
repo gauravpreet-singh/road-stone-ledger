@@ -20,7 +20,7 @@ import {
 
 // Mock data
 const materials = [
-  { id: 1, name: "Sand", quantity: 15000, unit: "tons", price: 35, stock: "High", trend: "up", country: "Local" },
+  { id: 1, name: "Sand", quantity: 20000, unit: "tons", price: 35, stock: "High", trend: "up", country: "Local" },
   { id: 2, name: "Gravel", quantity: 8500, unit: "tons", price: 30, stock: "Medium", trend: "up", country: "Local" },
   { id: 3, name: "Crushed Stone", quantity: 12000, unit: "tons", price: 35, stock: "High", trend: "down", country: "Local" },
   { id: 4, name: "Bitumen", quantity: 500, unit: "tons", price: 850, stock: "Low", trend: "up", country: "Venezuela" },
